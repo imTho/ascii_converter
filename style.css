@@ -1,0 +1,26 @@
+body {
+  color: white;
+  font-family: monospace;
+  text-align: center;
+  background-color: #070707;
+}
+.ascii-style {
+  margin: 0 auto;
+  font-family: monospace;
+  white-space: pre;
+  border: none;
+  outline: none;
+  font-size: 9px;
+}
+h1 {
+  color: #069b06;
+}
+#asciiOutput {
+  background-color: white;
+  margin-bottom: 150px;
+}
+button {
+  padding: 5px 10px;
+  font-size: 12px;
+  cursor: pointer;
+}
